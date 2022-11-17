@@ -30,5 +30,5 @@
     </p>
   - Vibration feature is added when any button is pressed.
   
-## APK: 
-  [GanitCalculator.apk](https://i.postimg.cc/sf6nRg6Z/A-div.jpg)
+## Download APK: 
+  [GanitCalculator.apk](https://drive.google.com/file/d/1mCq9gI2PmkL1l9II3MK01PRgXJ7jpwx3/view?usp=sharing)
