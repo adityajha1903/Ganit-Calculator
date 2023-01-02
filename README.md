@@ -1,5 +1,5 @@
 # Ganit-Calculator
-**This is a basic Android Calculator App made in Kotlin**
+**Ganit Calculator is a basic Android Calculator app made in kotlin.**
 
 
 ## Frontend features
